@@ -1,1 +1,1 @@
-18. Letters only please
+15. Count that word
